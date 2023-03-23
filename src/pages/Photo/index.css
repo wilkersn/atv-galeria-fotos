@@ -1,0 +1,9 @@
+div {
+  display: flex;
+  flex-direction: column;
+}
+
+.photo {
+  height: 600px;
+  width: 600px;
+}

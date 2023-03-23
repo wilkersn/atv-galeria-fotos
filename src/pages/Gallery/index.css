@@ -1,0 +1,5 @@
+
+.Content-Albums {
+  display: flex;
+  flex-direction: column;
+}
